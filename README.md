@@ -49,7 +49,7 @@ This project analyzes revenue performance, customer retention, return rate, and 
 ![Category Analysis](./Screenshots/category.analysis.png)
 
 ## Customer Split
-![Customer Split](./Screenshots/customer.splits.png)
+![Customer Split](./Screenshots/customer.spilts.png)
 ## Project Type
 End-to-end business revenue analysis dashboard built for portfolio demonstration.
 
